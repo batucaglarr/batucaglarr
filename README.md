@@ -24,9 +24,12 @@ Real-time cybersecurity threat intelligence dashboard for critical infrastructur
 
 ## Certifications & Learning
 
-- 📚 **CompTIA Security+** — In progress
-- 🔬 **TryHackMe** — Active hands-on practice
-- 🎯 Roadmap: CEH / eJPT → CISM / CISSP
+* 📚 **CompTIA Security+** — In progress
+* 🛡️ **Google Cybersecurity Professional Certificate** — Completed
+* 🔐 **IBM Cybersecurity Fundamentals** — Completed
+* 🔬 **TryHackMe** — Active hands-on practice
+* 🎯 **Roadmap:** CEH / eJPT → CISM / CISSP
+
 
 ---
 
