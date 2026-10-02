@@ -6,9 +6,7 @@
 
 ## About
 
-I'm a cybersecurity-focused Computer Science graduate student at a Warsaw university, with a background in UI/UX design and data analysis. My academic and project work centers on cyber warfare, critical infrastructure protection, and threat intelligence systems.
-
-Previously worked at ByteDance (data/content analysis) and Deka Technology (UI/UX design). Currently completing my M.Sc. thesis on cyber warfare and critical infrastructure security in global conflict scenarios.
+Computer Science M.Sc. | Cybersecurity & Threat Intelligence | Cyber Warfare & Critical Infrastructure Security | AI Security Projects
 
 ---
 
